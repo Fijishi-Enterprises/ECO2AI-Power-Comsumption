@@ -1,28 +1,3 @@
-<img src=https://github.com/sb-ai-lab/Eco2AI/blob/main/images/photo_2022-06-14_13-02-37.jpg />
-
-
-![PyPI Downloads](https://img.shields.io/pypi/dm/eco2ai?color=brightgreen&label=PyPI%20downloads&logo=pypi&logoColor=yellow)
-[![PyPI all Downloads](https://img.shields.io/badge/All%20PyPI%20downloads-look%20in%20Colab-brightgreen)](https://colab.research.google.com/drive/1UoSHPRUHbg5B1U2x8p_ACo21X9N6n1im?authuser=1)
-
-
-[![PyPI - Downloads](https://img.shields.io/badge/%20PyPI%20-link%20for%20download-brightgreen)](https://pypi.org/project/eco2ai/)
-![PyPI - Downloads](https://img.shields.io/pypi/v/eco2ai?color=bright-green&label=PyPI&logo=pypi&logoColor=yellow)
-[![DOI](https://img.shields.io/badge/DOI-eco2AI%20article-brightgreen)](https://link.springer.com/article/10.1134/S1064562422060230)
-[![telegram support](https://img.shields.io/twitter/url?label=eco2ai%20support&logo=telegram&style=social&url=https%3A%2F%2Ft.me%2F%2BjsaoAgioprQ4Zjk6)](https://t.me/eco2ai)
-
-# Eco2AI
-
-+ [About Eco2AI :clipboard:](#1)
-+ [Installation :wrench:](#2)
-+ [Use examples :computer:](#3)
-+ [Important note :blue_book:](#4)
-+ [Citing](#5)
-+ [Feedback :envelope:](#6) 
-
-
-
-
-
 ## About Eco2AI :clipboard: <a name="1"></a> 
 
 <img src=https://github.com/sb-ai-lab/Eco2AI/blob/main/images/eco2ai_logo_cut.jpg />
@@ -160,24 +135,3 @@ Properly accounted carbon emissions and power consumption Malevich and Kandinsky
    | **Kandinsky** | 9h 45m | 24.50 | **5.89** | A100 Graphics, 8 | AMD EPYC 7742 64-Core | 12 |
 
 Also we presented results for training of Malevich with optimized variation of [GELU](https://arxiv.org/abs/1606.08415) activation function. Training of the Malevich with the [8-bit version of GELU](https://arxiv.org/abs/2110.02861) allows us to spent about 10\% less energy and, consequently, produce less equivalent CO<sub>2</sub> emissions.
-
-# Citing Eco2AI
-[![DOI](https://img.shields.io/badge/DOI-eco2AI%20article-brightgreen)](https://link.springer.com/article/10.1134/S1064562422060230)
-
-The Eco2AI is licensed under a [Apache licence 2.0](https://www.apache.org/licenses/LICENSE-2.0).
-
-Please consider citing the following paper in any research manuscript using the Eco2AI library:
-
-```
-@inproceedings{budennyy2023eco2ai,
-  title={Eco2ai: carbon emissions tracking of machine learning models as the first step towards sustainable ai},
-  author={Budennyy, SA and Lazarev, VD and Zakharenko, NN and Korovin, AN and Plosskaya, OA and Dimitrov, DV and Akhripkin, VS and Pavlov, IV and Oseledets, IV and Barsola, IS and others},
-  booktitle={Doklady Mathematics},
-  pages={1--11},
-  year={2023},
-  organization={Springer}
-}
-```
-
-## In collaboration with
-[<img src="https://github.com/sb-ai-lab/Eco2AI/blob/main/images/AIRI%20-%20Full%20logo%20(2).png" width="200"/>](https://airi.net/)
